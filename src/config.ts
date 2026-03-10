@@ -46,7 +46,7 @@ export const siteConfig = {
       degree: "MSc Cognitive Neuroscience",
       dateRange: "2021",
       achievements: [
-        "Graduated Cum Laude,
+        "Graduated Cum Laude",
       ],
     },
     {
