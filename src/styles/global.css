@@ -1,7 +1,5 @@
-body {
-  font-family: "Inter", sans-serif;
-}
+@import "tailwindcss";
 
-h1, h2, h3 {
-  font-family: "Space Grotesk", sans-serif;
+body {
+  font-family: 'IBM Plex Mono', monospace;
 }
