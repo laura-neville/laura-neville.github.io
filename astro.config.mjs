@@ -4,7 +4,8 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "{https://laura-neville.github.io",
-    plugins: [tailwindcss()],
+  site: "https://laura-neville.github.io",
+  vite: {
+  plugins: [tailwindcss()],
   },
 });
