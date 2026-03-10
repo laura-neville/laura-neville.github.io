@@ -33,12 +33,13 @@ export const siteConfig = {
     },
 
   ],
-
+  experience: [],
   education: [
     {
       school: "University of Tübingen",
       degree: "PhD Neural and Behavioural Science",
       dateRange: "Expected: 2026",
+      achievements: [],
     },
     {
       school: "Maastricht University",
