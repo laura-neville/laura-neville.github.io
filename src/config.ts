@@ -7,8 +7,7 @@ export const siteConfig = {
     email: "lauraneville96@gmail.com",
     linkedin: "https://linkedin.com/in/laura-neville1",
   },
-  aboutMe:
-"Neuroscientist",
+  aboutMe: "Neuroscientist",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
