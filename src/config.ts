@@ -8,7 +8,6 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/laura-neville1",
   },
   aboutMe: "Clinically oriented neuroscientist with experience in Parkinson’s disease research, diffusion MRI, image-guided neurosurgical workflows, and translational neurotechnology. My work focuses on the substantia nigra, connectivity-based parcellation, and biomarkers of disease heterogeneity, with an emphasis on producing technically rigorous analyses that remain relevant to clinical decision-making and medical innovation.",
-,
   skills: [    "Python",
     "MATLAB",
     "Neuroimaging analysis",
