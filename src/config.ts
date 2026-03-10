@@ -1,89 +1,63 @@
 export const siteConfig = {
   name: "Laura Neville",
-  title: "PhD Neuroscience Researcher",
-  description: "Portfolio website of Ryan Fitzgerald",
-  accentColor: "#1d4ed8",
+  title: "PhD Researcher in Neuroscience | Neuroimaging & Parkinson’s Disease",
+  description: "Portfolio website of Laura NEville",
+  accentColor: "#50C878",
   social: {
     email: "lauraneville96@gmail.com",
     linkedin: "https://linkedin.com/in/laura-neville1",
   },
-  aboutMe: "Neuroscientist",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+  aboutMe: "Clinically oriented neuroscientist with experience in Parkinson’s disease research, diffusion MRI, image-guided neurosurgical workflows, and translational neurotechnology. My work focuses on the substantia nigra, connectivity-based parcellation, and biomarkers of disease heterogeneity, with an emphasis on producing technically rigorous analyses that remain relevant to clinical decision-making and medical innovation.",
+,
+  skills: [    "Python",
+    "MATLAB",
+    "Neuroimaging analysis",
+    "Diffusion MRI",
+    "Free-water imaging",
+    "Parkinson’s disease research",
+    "Scientific communication",
+    "Clinical collaboration",],
   projects: [
     {
       name: "Substantia Nigra Connectivity Parcellation",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        "Diffusion MRI project using connectivity-based clustering to define internal substantia nigra subregions and examine how structural connectivity patterns differ in Parkinson’s disease.",
       link: "https://github.com/laura-neville/sn-connectivity-parcellation",
-      skills: ["Python"],
+      skills: ["Python", "DTI", "Neuroimaging", "Parkinson’s disease"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Sleep-Motor Hub in the Substantia Nigra",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "Research project identifying a connectivity-defined substantia nigra hub linked to sleep-related pathways, then examining free-water and white-matter alterations associated with clinical subtype and progression.",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Free-water imaging", "Fixel-based analysis", "Python", "MRI"],
     },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
+
   ],
-  experience: [
-    {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
-      bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
-      ],
-    },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
-  ],
+
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "University of Tübingen",
+      degree: "PhD Neural and Behavioural Science",
+      dateRange: "Expected: 2026",
+    },
+    {
+      school: "Maastricht University",
+      degree: "MSc Cognitive Neuroscience",
+      dateRange: "2021",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Graduated Cum Laude,
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "National University of Ireland, Galway",
+      degree: "BA International Psychology",
+      dataRange: "2018",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
+        "Graduated with First Class Honours",
+        "Reciepent of NUIG Academic Scholarchip Award 2014/2015 and 2015/16"
+        ],
+      
     },
   ],
 };
