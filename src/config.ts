@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Laura Neville",
-  title: "Neuroscience Researcher | Neuroimaging, Parkinson’s Disease and Clinical Translation",
+  title: "Neuroscientist | Diffusion MRI, Parkinson’s Disease and Clinical Translation",
   description: "Portfolio website of Laura Neville",
   accentColor: "#0F766E",
   social: {
