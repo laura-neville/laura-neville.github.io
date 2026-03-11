@@ -7,7 +7,7 @@ export const siteConfig = {
     email: "lauraneville96@gmail.com",
     linkedin: "https://linkedin.com/in/laura-neville1",
   },
-  aboutMe:     "Clinically oriented neuroscientist specialising in diffusion MRI, Parkinson’s disease, and substantia nigra network dysfunction. I combine neuroimaging analysis, machine learning, and clinical interpretation to study disease heterogeneity and support translational neurotechnology.",
+  aboutMe:     "Clinically oriented neuroscientist specialising in diffusion MRI, Parkinson’s disease, and substantia nigra network dysfunction. My work combines neuroimaging analysis, machine learning, and experimental design to extract biologically meaningful signals from complex imaging datasets."
   skills: [    "Python",
     "MATLAB",
     "Diffusion MRI",
