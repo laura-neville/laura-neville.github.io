@@ -1,34 +1,35 @@
 export const siteConfig = {
   name: "Laura Neville",
-  title: "PhD Researcher in Neuroscience | Neuroimaging & Parkinson’s Disease",
-  description: "Portfolio website of Laura NEville",
-  accentColor: "#50C878",
+  title: "Neuroscience Researcher | Neuroimaging, Parkinson’s Disease and Clinical Translation",
+  description: "Portfolio website of Laura Neville",
+  accentColor: "#0F766E",
   social: {
     email: "lauraneville96@gmail.com",
     linkedin: "https://linkedin.com/in/laura-neville1",
   },
-  aboutMe: "Clinically oriented neuroscientist with experience in Parkinson’s disease research, diffusion MRI, image-guided neurosurgical workflows, and translational neurotechnology. My work focuses on the substantia nigra, connectivity-based parcellation, and biomarkers of disease heterogeneity, with an emphasis on producing technically rigorous analyses that remain relevant to clinical decision-making and medical innovation.",
+  aboutMe:     "Clinically oriented neuroscientist specialising in diffusion MRI, Parkinson’s disease, and substantia nigra network dysfunction. I combine neuroimaging analysis, machine learning, and clinical interpretation to study disease heterogeneity and support translational neurotechnology.",
   skills: [    "Python",
     "MATLAB",
-    "Neuroimaging analysis",
     "Diffusion MRI",
     "Free-water imaging",
+    "Fixel-based analysis",
+    "Neuroimaging analysis",
     "Parkinson’s disease research",
     "Scientific communication",
     "Clinical collaboration",],
   projects: [
     {
-      name: "Substantia Nigra Connectivity Parcellation",
+      name: "Connectivity-Based Organisation of the Substantia Nigra ",
       description:
-        "Diffusion MRI project using connectivity-based clustering to define internal substantia nigra subregions and examine how structural connectivity patterns differ in Parkinson’s disease.",
+    "Defined connectivity-based subregions of the substantia nigra and linked them to motor dysfunction in Parkinson’s disease.",
       link: "https://github.com/laura-neville/sn-connectivity-parcellation",
-      skills: ["Python", "DTI", "Neuroimaging", "Parkinson’s disease"],
+      skills: ["Python", "Diffusion MRI", "Machine Learning", "Parkinson’s disease"],
     },
     {
       name: "Sleep-Motor Hub in the Substantia Nigra",
       description:
-        "Research project identifying a connectivity-defined substantia nigra hub linked to sleep-related pathways, then examining free-water and white-matter alterations associated with clinical subtype and progression.",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      "Identified a substantia nigra sleep–motor hub and showed subtype-specific patterns of pathway degeneration in Parkinson’s disease.",
+      link: "https://github.com/laura-neville/sn-sleep-motor-hub",
       skills: ["Free-water imaging", "Fixel-based analysis", "Python", "MRI"],
     },
 
